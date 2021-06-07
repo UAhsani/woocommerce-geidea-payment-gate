@@ -1,0 +1,1 @@
+# woocommerce-geidea-payment-gate
